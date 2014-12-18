@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=src/main/webapp/resource/script/jquery/jquery-1.7.2.min.js,src/main/webapp/WEB-INF/resource/script/jquery/jquery-ui.js,src/main/webapp/resource/script/jquery/jquery-ui.js,src/main/webapp/WEB-INF/resource/script/jquery/jquery-1.7.2.min.js
+validator.Unchecked=

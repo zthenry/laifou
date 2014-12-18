@@ -1,0 +1,11 @@
+/home/henry/Workspaces/laifou-sns-management/laifou-api-provider/src/main/java/com/cyou/service/impl/HelloServiceImpl.java
+/home/henry/Workspaces/laifou-sns-management/laifou-api-provider/src/main/java/com/cyou/service/api/queue/PersonConnectionDeal.java
+/home/henry/Workspaces/laifou-sns-management/laifou-api-provider/src/main/java/com/cyou/service/api/queue/MasterQueue.java
+/home/henry/Workspaces/laifou-sns-management/laifou-api-provider/src/main/java/com/cyou/service/api/queue/ServiceProviderInit.java
+/home/henry/Workspaces/laifou-sns-management/laifou-api-provider/src/main/java/com/cyou/service/api/register/model/RegisterPhone.java
+/home/henry/Workspaces/laifou-sns-management/laifou-api-provider/src/main/java/com/cyou/service/api/register/impl/RegisterServiceImpl.java
+/home/henry/Workspaces/laifou-sns-management/laifou-api-provider/src/main/java/com/cyou/service/api/personcontact/model/PersonConnection.java
+/home/henry/Workspaces/laifou-sns-management/laifou-api-provider/src/main/java/com/cyou/service/api/dao/register/RegisterPhoneDAO.java
+/home/henry/Workspaces/laifou-sns-management/laifou-api-provider/src/main/java/com/cyou/service/api/personcontact/impl/PersonContactServiceImpl.java
+/home/henry/Workspaces/laifou-sns-management/laifou-api-provider/src/main/java/com/cyou/service/api/dao/provider/personcontact/PersonConnectionDAOProvider.java
+/home/henry/Workspaces/laifou-sns-management/laifou-api-provider/src/main/java/com/cyou/service/api/dao/personcontact/PersonConnectionDAO.java

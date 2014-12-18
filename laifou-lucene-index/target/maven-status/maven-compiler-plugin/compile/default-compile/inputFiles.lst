@@ -1,0 +1,13 @@
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/service/impl/JobApplyIndexer.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/service/impl/RecruitmentIndexer.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/task/IndexWriterHolder.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/task/IndexTask.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/service/LuceneIndexer.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/factory/JobApplyIndexerProvider.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/model/IndexCategoryEnum.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/task/LuceneIndexBuild.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/factory/IndexerProvider.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/main/SysStartUp.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/job/LuceneIndexTaskProcessor.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/factory/RecruitmentIndexerProvider.java
+/home/henry/Workspaces/laifou-sns-management/laifou-lucene-index/src/main/java/com/cyou/lucene/index/task/HouseIndexBuild.java

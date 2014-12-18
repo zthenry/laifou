@@ -1,0 +1,6 @@
+com/cyou/laifou/lucene/dao/LuceneIndexTaskDAO.class
+com/cyou/laifou/house/model/Condition.class
+com/cyou/laifou/house/dao/provider/HouseDAOProvider.class
+com/cyou/laifou/house/dao/HouseDAO.class
+com/cyou/laifou/lucene/model/LuceneIndexTask.class
+com/cyou/laifou/house/model/House.class

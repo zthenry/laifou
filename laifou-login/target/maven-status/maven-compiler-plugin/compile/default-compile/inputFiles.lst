@@ -1,0 +1,8 @@
+/home/henry/Workspaces/laifou-sns-management/laifou-login/src/main/java/com/cyou/login/service/impl/UserServiceImpl.java
+/home/henry/Workspaces/laifou-sns-management/laifou-login/src/main/java/com/cyou/login/common/JsonUtil.java
+/home/henry/Workspaces/laifou-sns-management/laifou-login/src/main/java/com/cyou/login/dao/UserDAO.java
+/home/henry/Workspaces/laifou-sns-management/laifou-login/src/main/java/com/cyou/login/common/ConstantsLogin.java
+/home/henry/Workspaces/laifou-sns-management/laifou-login/src/main/java/com/cyou/login/service/UserService.java
+/home/henry/Workspaces/laifou-sns-management/laifou-login/src/main/java/com/cyou/login/model/Menu.java
+/home/henry/Workspaces/laifou-sns-management/laifou-login/src/main/java/com/cyou/login/model/ManageModule.java
+/home/henry/Workspaces/laifou-sns-management/laifou-login/src/main/java/com/cyou/login/model/User.java

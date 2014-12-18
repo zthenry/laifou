@@ -1,0 +1,5 @@
+/home/henry/Workspaces/laifou-sns-management/laifou-user-analysis/src/main/java/com/cyou/user/analysis/model/RegisterPhone.java
+/home/henry/Workspaces/laifou-sns-management/laifou-user-analysis/src/main/java/com/cyou/user/analysis/dao/RegisterPhoneDAO.java
+/home/henry/Workspaces/laifou-sns-management/laifou-user-analysis/src/main/java/com/cyou/user/analysis/service/RegistrationService.java
+/home/henry/Workspaces/laifou-sns-management/laifou-user-analysis/src/main/java/com/cyou/user/analysis/dao/provider/RegisterPhoneDAOProvider.java
+/home/henry/Workspaces/laifou-sns-management/laifou-user-analysis/src/main/java/com/cyou/user/analysis/service/impl/RegistrationServiceImpl.java

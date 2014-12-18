@@ -1,0 +1,6 @@
+/home/henry/Workspaces/laifou-sns-management/laifou-model-dao/src/main/java/com/cyou/laifou/house/model/Condition.java
+/home/henry/Workspaces/laifou-sns-management/laifou-model-dao/src/main/java/com/cyou/laifou/house/dao/HouseDAO.java
+/home/henry/Workspaces/laifou-sns-management/laifou-model-dao/src/main/java/com/cyou/laifou/lucene/model/LuceneIndexTask.java
+/home/henry/Workspaces/laifou-sns-management/laifou-model-dao/src/main/java/com/cyou/laifou/house/model/House.java
+/home/henry/Workspaces/laifou-sns-management/laifou-model-dao/src/main/java/com/cyou/laifou/lucene/dao/LuceneIndexTaskDAO.java
+/home/henry/Workspaces/laifou-sns-management/laifou-model-dao/src/main/java/com/cyou/laifou/house/dao/provider/HouseDAOProvider.java

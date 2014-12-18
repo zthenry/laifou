@@ -1,0 +1,5 @@
+com/cyou/user/analysis/service/RegistrationService.class
+com/cyou/user/analysis/model/RegisterPhone.class
+com/cyou/user/analysis/dao/provider/RegisterPhoneDAOProvider.class
+com/cyou/user/analysis/service/impl/RegistrationServiceImpl.class
+com/cyou/user/analysis/dao/RegisterPhoneDAO.class

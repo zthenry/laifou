@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:mvc="http://www.springframework.org/schema/mvc" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context" xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="  
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd  
+        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
+        http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
+        http://www.springframework.org/schema/context   
+        http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+	
+	<!-- 页面视图渲染 -->
+	<bean id="viewResolvers"
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="viewClass"
+			value="org.springframework.web.servlet.view.JstlView" />
+		<property name="prefix" value="/page/" />
+		<property name="suffix" value=".jsp" />
+	</bean>
+
+    <bean
+		class="org.springframework.web.servlet.view.ContentNegotiatingViewResolver">
+		<property name="defaultContentType" value="text/html" />
+		<property name="mediaTypes">
+			<map>
+				<entry key="html" value="text/html" />
+				<entry key="json" value="application/json" />
+				<entry key="xml" value="application/xml" />
+			</map>
+		</property>
+		<property name="defaultViews">
+			<list>
+<!-- 				输出为JSON或者xml数据 -->
+				<bean
+					class="org.springframework.web.servlet.view.json.MappingJackson2JsonView">
+				</bean>
+			</list>
+		</property>
+	</bean>
+
+</beans>
